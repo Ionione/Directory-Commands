@@ -7,3 +7,6 @@
 - ls a: Listar los archivos y carpetas (incluidos ocultos) de un directorio
 - cat nombre_archivo.ext: Leer el contenido de un archivo
 - mkdir: Crear una carpeta
+- rm: Borrar un archivo
+- rm -rf nombre_carpeta:Borra una carpeta y todo su contenido
+- echo 'hola rock the code': Lanzar mensaje en la terminal.
